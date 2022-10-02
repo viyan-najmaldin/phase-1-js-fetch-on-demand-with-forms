@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-js-fetch-on-demand-with-forms",
+  "version": "1.0.0",
+  "description": "- Practice using forms to trigger `fetch` requests\r - Add content to the DOM based on user input\r - Override default form behavior using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viyan-najmaldin/phase-1-js-fetch-on-demand-with-forms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viyan-najmaldin/phase-1-js-fetch-on-demand-with-forms/issues"
+  },
+  "homepage": "https://github.com/viyan-najmaldin/phase-1-js-fetch-on-demand-with-forms#readme"
+}
